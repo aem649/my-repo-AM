@@ -17,3 +17,7 @@ For more information about Markdown syntax, see the [Markdown Cheat Sheet](https
 new line hooray!
 
 woohoo more edits
+
+this is a new feature
+
+another feature added
